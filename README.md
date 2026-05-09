@@ -3,6 +3,7 @@
        alt="Profile Banner" 
        width="700"/>
 </div>
+![Profile Views](https://komarev.com/ghpvc/?username=royal-fork&color=brightgreen&style=flat-square&label=Profile+Views)
 # Hi 👋, I'm Raghav Sod
 
 ### A passionate developer from Delhi, India
