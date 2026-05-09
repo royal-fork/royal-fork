@@ -19,9 +19,9 @@ Computer Science undergraduate focused on backend development using Java and Spr
 
 <div align="left">
 
-- 🌱 I'm currently learning **## I'm Currently Learning
+- 🌱 I'm currently learning Spring Framework I'm Currently Learning
 
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="20"/> Spring Boot**
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="20"/> Spring Boot
 
 </div>
 
@@ -97,8 +97,9 @@ Computer Science undergraduate focused on backend development using Java and Spr
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=royal-fork&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
-![LeetCode Stats](https://readmecodegen.com/api/leetcode-stats/royal-fork?theme=light)
-
+<p align="center">
+  <img src="https://readmecodegen.com/api/leetcode-stats/royal-fork?theme=dark" width="350"/>
+</p>
 </div>
 
 ---
