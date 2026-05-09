@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.pinterest.com/pin/1688918607255616/" alt="Profile Banner" width="100%" />
+  <img src="https://i.pinimg.com/736x/d5/ac/14/d5ac14117a826bdb42375b5a8e058c47.jpg 736w, https://i.pinimg.com/1200x/d5/ac/14/d5ac14117a826bdb42375b5a8e058c47.jpg 1200w" alt="Profile Banner" width="100%" />
 </div>
 
 <div align="center">
@@ -8,7 +8,7 @@
 
 ### A passionate developer from Delhi, India
 
-<img src="https://github.com/royal-fork.png" alt="Raghav Sod" width="150" height="150" style="border-radius: 50%;" />
+
 
 </div>
 
