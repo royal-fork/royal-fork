@@ -3,8 +3,7 @@
        alt="Profile Banner" 
        width="700"/>
 </div>
-![Profile Views](https://komarev.com/ghpvc/?username=royal-fork&color=brightgreen&style=flat-square&label=Profile+Views)
-# Hi 👋, I'm Raghav Sod
+# Hi 👋, I'm Raghav Sood
 
 ### A passionate developer from Delhi, India
 
@@ -15,6 +14,8 @@
 ## 🚀 About Me
 
 Computer Science undergraduate focused on backend development using Java and Spring Boot. Strong foundation in data structures and algorithms with 500+ problems solved across competitive programming platforms. Interested in building scalable systems and solving real-world problems.
+
+![Profile Views](https://komarev.com/ghpvc/?username=royal-fork&color=brightgreen&style=flat-square&label=Profile+Views)
 
 ## 📚 Learning & Knowledge
 
